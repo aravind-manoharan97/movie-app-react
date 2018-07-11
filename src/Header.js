@@ -38,7 +38,7 @@ class Header extends Component {
         <Collapse isOpen={!this.state.collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink style={color}><Link to={"/app"}>HOME</Link></NavLink>
+              <NavLink style={color}><Link to={"/"}>HOME</Link></NavLink>
             </NavItem>
             <NavItem>
               <NavLink style={color} ><Link to={"/app"}>NEW MOVIES</Link></NavLink>

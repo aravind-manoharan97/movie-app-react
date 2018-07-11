@@ -15,7 +15,7 @@ text-align: center;
 }
 
 .search{
-	width: 400px;
+	width: auto;
 	border-radius: 30px;
 	border: 2px solid white;
 	height: 40px;
